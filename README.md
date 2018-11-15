@@ -1,2 +1,4 @@
 # hello-world
-getting started
+Getting started.
+
+Just trying to learn how to use this.
